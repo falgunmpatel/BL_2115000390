@@ -80,3 +80,55 @@
     10. ChocolateDistribution
     11. SimpleInterestCalculator
     12. WeightConversion
+
+### January 22, 2025 
+    >> Topics: 
+    1. Java Control Flows
+    2. Java boolean Data Type
+    3. Boolean Expressions
+    4. Logical Operators
+    5. if Conditional Statement along with else if and final else statement
+    6. Java loops - for and while
+    7. Java break and continue statement
+    8. Java switch Statement  
+
+    >> Assignment Problems:
+    > Level 1 -
+    1. DivisibleByFive
+    2. SmallestNumber
+    3. LargestNumber
+    4. SumOfNaturalNumbers
+    5. VotingEligibility
+    6. NumberSignCheck
+    7. SpringSeason
+    8. CountdownWhile
+    9. CountdownFor
+    10. SumUntilZero
+    11. SumUntilNegative
+    12. NaturalNumberSumWhile
+    13. NaturalNumberSumFor
+    14. FactorialWhile
+    15. FactorialFor
+    16. OddEvenNumbers
+    17. EmployeeBonus
+    18. MultiplicationTable
+    > Level 2 -
+    1. LeapYear
+    2. LeapYearUsingLogicalOperator
+    3. CalculateGrade
+    4. CheckIfPrime
+    5. FizzBuzzUsingForLoop
+    6. FizzBuzzUsingWhileLoop
+    7. BMICalculator
+    8. YoungestAndTallest
+    9. GreatestFactor
+    10. PowerOfNumber
+    11. FindFactors
+    12. MultiplesOfNumber   
+    > Level 3 - 
+    1. ArmstrongNumber
+    2. CountDigits
+    3. HarshadNumber
+    4. AbundantNumber
+    5. DayOfWeek
+    6. Calculator
