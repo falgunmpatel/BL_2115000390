@@ -132,3 +132,41 @@
     4. AbundantNumber
     5. DayOfWeek
     6. Calculator
+
+### January 23, 2025
+    >> Topics:
+    1. Java Arrays
+    2. Create an Array
+    3. Access an Array
+    4. Accessing using for loop
+    5. Modifying an Array
+    6. Using length property of array
+    7. Java Multi-demensional Array
+    8. Java 2 Dimensional Array (Matrix)
+    9. Accessing, finding size, etc of Multi-Dimensional Array
+    10. Using Java System error() message and exit() method
+
+    >> Assignment Problems:
+    > Level 1: 
+    1. VotingEligibility
+    2. CompareNumbers
+    3. MultiplicatonTable
+    4. SumOfAllNumbers
+    5. MultiSortTable
+    6. MeanHeight
+    7. OddEvenArrays
+    8. FindFactors
+    9. CopyArray
+    10. FizzBuzz 
+    > Level 2:
+    1. EmployeeBonus
+    2. YoungestAndTallest
+    3. LargestDigits
+    4. LargestDigits2
+    5. ReverseNumber
+    6. BMICalculator
+    7. BMICalculator2D
+    8. GradeCalculation
+    9. GradeCalculation2D
+    10. DigitFrequency
+    
