@@ -1,26 +1,28 @@
-import java.util.*;
-
+import java.util.Scanner;
 public class MostFrequentCharacter {
+
     public static char mostFrequentCharacter(String input) {
-        if (input == null || input.isEmpty()) {
-            throw new IllegalArgumentException("Input string cannot be empty.");
+        int[] freq = new int[256]; // Assuming ASCII characters
+        for (int i = 0; i < input.length(); i++) {
+            freq[input.charAt(i)]++;
         }
 
-        Map<Character, Integer> freqMap = new HashMap<>();
-        for (char ch : input.toCharArray()) {
-            freqMap.put(ch, freqMap.getOrDefault(ch, 0) + 1);
+        int maxFreq = 0;
+        char mostFrequent = '\0';
+        for (int i = 0; i < input.length(); i++) {
+            char ch = input.charAt(i);
+            if (freq[ch] > maxFreq) {
+                maxFreq = freq[ch];
+                mostFrequent = ch;
+            }
         }
-
-        return Collections.max(freqMap.entrySet(), Map.Entry.comparingByValue()).getKey();
+        return mostFrequent;
     }
 
     public static void main(String[] args) {
-        try (Scanner scanner = new Scanner(System.in)) {
-            System.out.println("Enter a string:");
-            String input = scanner.nextLine();
-            System.out.println("Most Frequent Character: " + mostFrequentCharacter(input));
-        } catch (Exception e) {
-            System.out.println("Error: " + e.getMessage());
-        }
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter a string:");
+        String input = scanner.nextLine();
+        System.out.println("Most Frequent Character: " + mostFrequentCharacter(input));
     }
 }
