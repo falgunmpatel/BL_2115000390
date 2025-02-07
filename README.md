@@ -5,7 +5,7 @@
 ---
 
 ### January 15, 2025
-- Orientation Program of training with Bridge Labs
+    Orientation Program of training with Bridge Labs
 
 
 ### January 16, 2025
@@ -89,5 +89,27 @@
     1. Java Constructors
     2. Instance vs. Class Variables
     3. Access Modifiers Concept
+
+### February 03, 2025
+    1. this- static
+    2. final
+    3. instanceof operator
+
+### February 03, 2025
+    1. Classes vs. Objects in Java
+    2. Class Diagram
+    3. Object Diagrams
+    4. Sequence Diagrams
+
+### February 05, 2025
+    1. Inheritance
+    2. Single Level Inheritance
+    3. Multilevel Inheritance
+    4. Hierarchical Inheritance
+    5. Key Features of Inheritance
+    6. Method Overriding
+    7. Constructor Inheritance in Java
+    8. Polymorphism and Inheritance
+    9. Access Modifiers and Inheritance
 
     
