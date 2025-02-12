@@ -112,4 +112,15 @@
     8. Polymorphism and Inheritance
     9. Access Modifiers and Inheritance
 
+### February 08, 2025
+    1. Encapsulation
+    2. Polymorphism
+    3. Interface
+    4. Abstract Classes
+    
+### February 10, 2025
+    1. Single Linked List
+    2. Double Linked List
+    3. Circular Linked List
+
     
