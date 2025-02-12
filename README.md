@@ -123,4 +123,9 @@
     2. Double Linked List
     3. Circular Linked List
 
+### February 12, 2025
+    1. Stack
+    2. Queue
+    3. HashMap and Hashing Function
+
     
