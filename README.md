@@ -77,9 +77,8 @@
     11. Java Exception Types
     12. java.lang.RuntimeException or Unchecked Exceptions
     13. Checked Exceptions
-
-    - Built In Functions
-    - Date And Time
+    14. Built In Functions
+    15. Date And Time
 
 ### January 30, 2025
     1. Procedural vs Object-oriented Programming Language
@@ -119,9 +118,12 @@
     4. Abstract Classes
     
 ### February 10, 2025
-    1. Single Linked List
-    2. Double Linked List
-    3. Circular Linked List
+    1. Introduction of Data Structure
+    2. Key Features of Data Structures in Java
+    3. Types of Data Structures in Java
+    4. Single Linked List
+    5. Double Linked List
+    6. Circular Linked List
 
 ### February 12, 2025
     1. Stack
