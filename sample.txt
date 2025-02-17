@@ -1,0 +1,5 @@
+Hey There! Welcome to this sample.txt file...
+This is just used to test some classes of java especially the BufferedReader, FileReader and the InputStreamReader.
+Thank You!!
+
+
